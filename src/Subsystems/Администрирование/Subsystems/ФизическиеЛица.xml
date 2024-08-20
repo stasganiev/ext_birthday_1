@@ -7,9 +7,7 @@
 			<Name>ФизическиеЛица</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>1b8b6b63-62e7-463f-ac61-cc99221f4f14</ExtendedConfigurationObject>
-			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">Report.др_ПредстоящиеДниРождения</xr:Item>
-			</Content>
+			<Content/>
 		</Properties>
 		<ChildObjects/>
 	</Subsystem>
